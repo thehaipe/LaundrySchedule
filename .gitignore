@@ -1,0 +1,57 @@
+# Секретні дані
+.env
+*.env
+.env.local
+.env.production
+
+# База даних
+data/
+*.json
+*.db
+*.sqlite
+*.sqlite3
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+dist/
+build/
+
+# Віртуальне середовище
+venv/
+env/
+ENV/
+.venv/
+.env/
+
+# IDE та редактори
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+Thumbs.db
+
+# Логи
+*.log
+logs/
+*.log.*
+
+# Тимчасові файли
+*.tmp
+*.temp
+.cache/
+.pytest_cache/
+
+# Системні файли
+.DS_Store
+Thumbs.db
+desktop.ini

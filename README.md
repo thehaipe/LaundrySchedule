@@ -14,8 +14,8 @@ Telegram бот для автоматизації запису на пральн
 
 1. Знайдіть `@BotFather` в Telegram
 2. Відправте `/newbot`
-3. Введіть назву: `Washing Machine Bot`
-4. Введіть username: `your_washing_bot`
+3. Введіть назву: `washaNazvaBot`
+4. Введіть username: `washaNazvaBot`
 5. Скопіюйте токен
 
 ### 2. Встановлення
